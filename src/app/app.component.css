@@ -2,6 +2,7 @@
 
 h1 {
     font-size: 1.2em;
+    color: #999;
     margin-bottom: 0;
 }
 
@@ -22,7 +23,7 @@ nav a {
 
 nav a:visited,
 a:link {
-    color: #334953;
+    color: #607d8b;
 }
 
 nav a:hover {
